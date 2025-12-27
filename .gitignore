@@ -88,3 +88,8 @@ Desktop.ini
 # Local development
 .local
 .cache/
+
+# Claude AI
+.claude/
+claude/
+.claude
